@@ -1,2 +1,3 @@
 # Twitter_Sentiment_Analysis
-A machine learning project that classifies Twitter messages into positive or negative sentiment using TF-IDF and SVM. Achieves 96% accuracy.
+Twitter Sentiment Analysis using TF-IDF feature extraction and multiple ML models (Naive Bayes, Logistic Regression, SVM). Automatically selects and saves the best model (SVM: 96.3% accuracy).
+
